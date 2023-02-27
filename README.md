@@ -25,13 +25,7 @@ pip install notebook
 ```sh
 pip install pandas
 ```
-1._codes
-a edit & diagram add in pd_part_2
-yesterday
-2._interview_questions
-Update README.md
-yesterday
-.gitignore
+
 
 
 ## Branch tree
